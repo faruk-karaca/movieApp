@@ -10,7 +10,7 @@
 - MVVM
 - Jetpack Compose
 - Dagger Hilt
-- Retfofit
+- Retrofit
 - Coroutines
 - Navigation
 - OMDB Api
